@@ -8,6 +8,7 @@ import Service6 from "../pages/Service6";
 import Service7 from "../pages/Service7";
 import Contract1 from "../pages/Contract1";
 
+
 export const PublicRoute = [
     {
         id:"1",
